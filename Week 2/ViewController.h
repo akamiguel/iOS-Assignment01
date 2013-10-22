@@ -11,5 +11,7 @@
 @interface ViewController : UIViewController
 
 - (IBAction)sayHelloWorld:(id)sender;
+- (IBAction)toggleHelloWorld:(id)sender;
+- (IBAction)slideHelloWorld:(id)sender;
 
 @end
